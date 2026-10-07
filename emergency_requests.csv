@@ -1,0 +1,8 @@
+request_id,patient_id,location_node,severity,request_type,status
+1,1,1,High,Road Accident,Pending
+2,2,3,Medium,Medical Emergency,Pending
+3,3,5,Low,Minor Injury,Pending
+4,4,2,High,Fire Emergency,Pending
+5,5,7,Medium,Heart Problem,Pending
+6,6,12,high,accident,Pending
+23,22,45,high,bleeding,Pending
