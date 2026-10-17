@@ -1,0 +1,6 @@
+evacuee_id,evacuee_name,node_id,status
+501,Evacuee-01,2,SAFE
+502,Evacuee-02,6,SAFE
+503,Evacuee-03,9,PENDING
+504,Evacuee-04,11,PENDING
+505,Evacuee-05,7,SAFE
