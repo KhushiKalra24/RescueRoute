@@ -1,0 +1,5 @@
+hospital_id,hospital_name,node_id,total_capacity,available_capacity,status
+101,Doon Hospital,13,100,35,AVAILABLE
+102,MAX Super Speciality Hospital,14,80,20,AVAILABLE
+103,Shri Mahant Indiresh Hospital,15,120,45,AVAILABLE
+104,Graphic Era Hospital,16,70,15,AVAILABLE
